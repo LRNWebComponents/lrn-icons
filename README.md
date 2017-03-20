@@ -1,5 +1,11 @@
 # \<lrn-icons\>
 
+## Usage
+
+```
+<lrn-icons icon="lrn-icons:done"></lrn-icons>
+<lrn-icons icon="lrn-icons:input"></lrn-icons>
+```
 
 
 ## Install the Polymer-CLI
