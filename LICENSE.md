@@ -1,10 +1,10 @@
 BSD 3-Clause License
 
-iron-icons
+iron-icon
 Copyright (c) 2014, WebPaperElements
 All rights reserved.
 
-lrn-icons
+lrn-icon
 Copyright (c) 2017, Pennsylvania State University
 All rights reserved.
 
