@@ -4,7 +4,8 @@
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0",
     "iron-icon": "PolymerElements/iron-icon#^1.0.12",
-    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#^1.1.0"
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#^1.1.0",
+    "lrn-icon": "LRNWebComponents/lrn-icon#^1.0.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
