@@ -2,9 +2,9 @@
   "name": "lrn-icons",
   "main": "lrn-icons.html",
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.4.0",
-    "iron-icon": "PolymerElements/iron-icon#^1.0.12",
-    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#^1.1.0",
+    "polymer": "Polymer/polymer#^1.11.0",
+    "iron-icon": "PolymerElements/iron-icon#^2.0.0",
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#^2.1.0",
     "lrn-icon": "LRNWebComponents/lrn-icon#^1.0.0"
   },
   "devDependencies": {
