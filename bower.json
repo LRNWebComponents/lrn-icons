@@ -16,6 +16,9 @@
   "resolutions": {
     "iron-flex-layout": "^2.0.1",
     "iron-meta": "^2.0.3",
-    "iron-iconset": "^2.0.0"
+    "iron-iconset": "^2.0.0",
+    "iron-icon": "^2.0.0",
+    "iron-iconset-svg": "^2.1.0",
+    "webcomponentsjs": "^0.7.24"
   }
 }
